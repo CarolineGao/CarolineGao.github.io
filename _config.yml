@@ -2,14 +2,14 @@ title: Jingying Gao # Shown in header on pages with full_logo: true
 short_logo: JYG. # Shown in header on all pages by default unless full_logo: true is set
 description: > # The description for your site
   Jingying, PhD candidate website
-url: "https://jingyinggao.github.io/" # Site base URL
+url: "https://jingyingcarolinegao.github.io/" # Site base URL
 
 author:
   name: Jingying
   github: JingyingCarolineGao # GitHub username, used for GitHub icon on the top right
   linkedin: JingyingGao # Your LinkedIn profile url name, used for LinkedIn icon on the top right
   email: jingying.gao@unsw.edu.au # Used for email icon on the top right
-  homepage: https://jingyinggao.github.io/ # This links to your name in post meta
+  homepage: https://jingyingcarolinegao.github.io/ # This links to your name in post meta
   twitter: # Twitter username, used for Twitter Card Analytics 
 
 disqus_name: # Setting this will turn on Disqus comments
